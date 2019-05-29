@@ -44,7 +44,7 @@
 
 <script>
 import Movie from '@/components/Movie';
-const API_URL = 'http://www.omdbapi.com/?apikey=a385125e&type=movie&s=';
+const API_URL = 'http://crossorigin.me/http://www.omdbapi.com/?apikey=a385125e&type=movie&s=';
 export default {
   name: 'app',
   components: {
